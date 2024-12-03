@@ -1,3 +1,5 @@
 # K&R C "hello, world" program
 
-![K&R Hello World](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hello_World_Brian_Kernighan_1978.jpg/547px-Hello_World_Brian_Kernighan_1978.jpg)
+![K&R Hello World](./image.jpg)
+
+_Image by Brian Kernighan - https://www.artsy.net/artwork/brian-kernighan-hello-world, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=56193395._
